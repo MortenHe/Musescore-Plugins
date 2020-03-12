@@ -19,12 +19,12 @@ MuseScore {
     menuPath: "Plugins.ColorTab"
 
     property variant colors: [
-        "#FF0000", // 1. string (high e)
-        "#00FF00", // 2. string
-        "#0000FF", // 3. string
-        "#FFCC33", // 4. string
-        "#FFF32B", // 5. string
-        "#BCD85F", // 6. string (low e)
+        "#00aa00", // 1. string (high e)
+        "#ff0000", // 2. string
+        "#0000ff", // 3. string
+        "#aa5500", // 4. string
+        "#aa00ff", // 5. string
+        "#000000", // 6. string (low e)
     ];
 
     onRun: {
