@@ -17,13 +17,13 @@ MuseScore {
     version: "3.0"
     description: "This plugin colors the TAB notes depending on their string"
     menuPath: "Plugins.ColorTab"
-
-    property variant colors: [
+ 
+     property variant colors: [
         "#00aa00", // 1. string (high e)
         "#ff0000", // 2. string
         "#0000ff", // 3. string
-        "#aa5500", // 4. string
-        "#aa00ff", // 5. string
+        "#fc00ce", // 4. string
+        "#fc9b00", // 5. string
         "#000000", // 6. string (low e)
     ];
 
